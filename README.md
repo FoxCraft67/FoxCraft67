@@ -1,3 +1,5 @@
+<h1 align="center">Salut 👋</h1>
+
 Je suis un lycéen passionné par l'informatique et l'électronique. J'adore coder et créer des projets numériques dans mon temps libre. Que ce soit développer des bots discord, des applications qui me permettent de réaliser des choses sans passer par des services exterieurs, des jeux vidéo ou bidouiller avec de l'électronique comme des Raspberry Pi, Arduino etc.<br>
 Je suis toujours enchanté par l'idée d'apprendre et explorer ces domaines. J'aime relever des défis techniques, trouver des solutions créatives à des problèmes, et continuer à approfondir mes connaissances. <br>
 C'est un secteur dans lequel je pense me diriger à l'avenir. En attendant, je continue à travailler sur mes compétences en programmation et en électronique à travers des projets personnels et mon parcours scolaire.<br>
