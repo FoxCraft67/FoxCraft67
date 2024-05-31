@@ -1,6 +1,6 @@
 <h1 align="center">Salut 👋</h1>
 
-Je suis un lycéen passionné par l'informatique et l'électronique. Pendant mon temps libre, je développe des projets variés : bots Discord, applications autonomes, jeux vidéo, ainsi que des expérimentations avec des Raspberry Pi et Arduino.
+Je suis un lycéen passionné par l'informatique et l'électronique. Pendant mon temps libre, je développe des projets variés : bots Discord, site web, outils, ainsi que des expérimentations avec des Raspberry Pi et Arduino.
 
 <h3 align="left">🌐 Réseaux:</h3>
 <p align="left">
